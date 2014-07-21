@@ -1,4 +1,4 @@
 mobichecks
 ==========
 
-application mobile
+application mobile pour échanger des documents
